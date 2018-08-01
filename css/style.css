@@ -690,5 +690,5 @@ footer p, footer span
 
 .footer__copyright .container p
 {
-	
+	display: none;
 }

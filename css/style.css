@@ -687,3 +687,8 @@ footer p, footer span
 	margin:0px;
 	color: var(--greyprocess);
 }
+
+.footer__copyright .container p
+{
+	
+}
